@@ -19,3 +19,12 @@ We were focusing on the effect of promotion to predict the sale so we dropout th
 1. https://www.kaggle.com/c/rossmann-store-sales/data
 2. https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
 3. https://builtin.com/data-science/recurrent-neural-networks-and-lstm
+
+## Authors
+
+- [@kkityeungg](https://github.com/kkityeungg)
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at kit63020618@gmail.com
